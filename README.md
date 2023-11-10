@@ -9,5 +9,4 @@ Groep Leden:
 
 10-11-2023:
 - Doornemen Document Eindopdracht.
-- Car2Go (Relationele Databases)
 - GIT leren, toevoegen
